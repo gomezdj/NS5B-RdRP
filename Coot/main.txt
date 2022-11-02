@@ -1,0 +1,3 @@
+Coot analysis 
+- Structure
+- Ramchandran plot
